@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Druid: a humanities magazine.</title>
+    </titleInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="dct">text</genre>
+    <subject>
+        <topic>University of Tennessee, Knoxville. Students -- Periodicals </topic>
+    </subject>
+    <note>Publications by students</note>
+    <originInfo>
+        <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+    </originInfo>
+    <originInfo>
+        <dateOther>1970 Spring</dateOther>
+    </originInfo>
+    <identifier type="local">druid_1970spring</identifier>
+    <location>
+        <url>http://digital.lib.utk.edu/mpds/?ckey=druid&amp;iid=932</url>
+        <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/druid%3A66</url>
+        <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/druid%3A66/datastream/TN/view</url>
+    </location>
+    <identifier type="local">http://digital.lib.utk.edu/mpds/?ckey=druid&amp;iid=932</identifier>
+    <relatedItem type="original">
+        <titleInfo>
+            <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+        </titleInfo>
+    </relatedItem>
+    <accessCondition>This compilation is copyrighted by the University of
+        Tennessee. Images, text, or other content downloaded from the
+        collection may be freely used for non-profit educational
+        and research purposes, or any other use falling
+        within the purview of &quot;Fair Use.&quot; For any other use,
+        contact the University of Tennessee Libraries. </accessCondition>
+</mods>
