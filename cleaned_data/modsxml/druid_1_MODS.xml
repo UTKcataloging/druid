@@ -45,8 +45,8 @@
             <namePart>Rogers, Kenny</namePart>
         </name>
     </subject>
-    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n86130265">
-        <namePart>Gore, Al, 1948-</namePart>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n87944950">
+        <namePart>Gore, Albert, 1907-1998</namePart>
         <role>
             <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
         </role>
